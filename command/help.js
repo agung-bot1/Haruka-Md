@@ -40,7 +40,7 @@ ${mundur}
  
 *MAIN MENU*${petik}
  • ${prefix}menu
- • ${prefix}infobot
+ • ${prefix}infobot'Error'
  • ${prefix}donate
  • ${prefix}dashboard
  • ${prefix}owner
@@ -55,7 +55,7 @@ ${mundur}
 
 *CONVERTER/TOOLS*${petik} 
  • ${prefix}sticker
- • ${prefix}stickerwm
+ • ${prefix}stickerwm'error'
  • ${prefix}smeme
  • ${prefix}toimg
  • ${prefix}tovideo
@@ -63,15 +63,15 @@ ${mundur}
  • ${prefix}ttp
  • ${prefix}attp
  • ${prefix}emojimix
- • ${prefix}nuliskiri
- • ${prefix}nuliskanan
- • ${prefix}foliokiri
- • ${prefix}foliokanan
- • ${prefix}say
+ • ${prefix}nuliskiri'error'
+ • ${prefix}nuliskanan'error'
+ • ${prefix}foliokiri'error'
+ • ${prefix}foliokanan'error
+ • ${prefix}say'error
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
-• ${prefix}menfess nama|62xxx|pesan
+• ${prefix}menfess nama|62xxx|pesan'error'
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
