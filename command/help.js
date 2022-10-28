@@ -28,6 +28,8 @@ ${mundur}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
+ • bot masih dalam tahap uji coba masih banyak fitur yang gak 
+   Support dan error owner lagi males benerin 
 
 *USER INFO*
  • Name : ${pushname !== undefined ? pushname : '-'}
@@ -41,7 +43,7 @@ ${mundur}
 *MAIN MENU*${petik}
  • ${prefix}menu
  • ${prefix}infobot'Error'
- • ${prefix}donate
+ • ${prefix}donate'error'
  • ${prefix}dashboard
  • ${prefix}owner
  • ${prefix}cekdrive
@@ -325,6 +327,8 @@ ${mundur}
  • ${prefix}zettai${petik}
 
 
+Masih banyak error di
+Bawah sini
 *TEXTPRO MENU*${petik}
  • ${prefix}halloween2
  • ${prefix}horror
